@@ -15,7 +15,7 @@ A curated list of papers on trustworthy GUI agents
 
 ## Introduction
 
-GUI agents, powered by large foundation models, interact with digital interfaces through mouse and keyboard actions, enabling applications in web automation, mobile navigation, and software testing. However, their increasing autonomy raises critical concerns about security, privacy, and safety. This repository collects research papers addressing these challenges across multiple dimensions to foster the development of more trustworthy GUI agents.
+GUI agents, powered by large foundation models, interact with digital interfaces through mouse and keyboard actions, enabling applications in web automation, mobile navigation, and software testing. However, their increasing autonomy raises critical concerns about security, privacy, and reliability. This repository collects research papers addressing these challenges across multiple dimensions to foster the development of more trustworthy GUI agents.
 
 ## Foundational Concepts
 
