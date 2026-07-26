@@ -140,6 +140,7 @@ GUI agents, powered by large foundation models, interact with digital interfaces
 
 ### Safety & Reliability Assessment
 
+- [ClawBench: Can AI Agents Complete Everyday Online Tasks?](https://arxiv.org/abs/2604.08523) - Zhang et al. (2026) - Live-site benchmark whose final-request interceptor blocks irreversible writes before they reach production services.
 - [Agent-SafetyBench: Evaluating the Safety of LLM Agents](https://arxiv.org/abs/2412.14470) - Zhang et al. (2024)
 - [AgentHarm: A Benchmark for Measuring Harmfulness of LLM Agents](https://arxiv.org/abs/2410.09024) - Andriushchenko et al. (2024)
 - [MobileSafetyBench: Evaluating Safety of Autonomous Agents in Mobile Device Control](https://arxiv.org/abs/2410.17520) - Lee et al. (2024)
