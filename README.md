@@ -145,6 +145,7 @@ GUI agents, powered by large foundation models, interact with digital interfaces
 - [MobileSafetyBench: Evaluating Safety of Autonomous Agents in Mobile Device Control](https://arxiv.org/abs/2410.17520) - Lee et al. (2024)
 - [ST-WebAgentBench: A Benchmark for Evaluating Safety and Trustworthiness in Web Agents](https://arxiv.org/abs/2410.06703) - Levy et al. (2024)
 - [GUI Testing Arena: A Unified Benchmark for Advancing Autonomous GUI Testing Agent](https://arxiv.org/abs/2412.18426) - Zhao et al. (2024)
+- [ClawBench: Can AI Agents Complete Everyday Online Tasks?](https://arxiv.org/abs/2604.08523) - Zhang et al. (2026) — General live-web agent benchmark with explicit safety interception and multi-layer action/trajectory traces; complementary to safety-specific benchmarks.
 - [AHA!: Facilitating AI Impact Assessment by Generating Examples of Harms](https://arxiv.org/abs/2306.03280) - Bucinca et al. (2023)
 
 ### Multimodal Safety & Cultural Alignment
